@@ -36,7 +36,7 @@ As I seek senior roles in the field of data science, I am eager to leverage my d
 
 ## Python Development Tools
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://rferreira13.github.io/pandas/)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## Visualization Tools
